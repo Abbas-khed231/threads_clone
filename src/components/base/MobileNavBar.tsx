@@ -32,7 +32,7 @@ export default function MobileNavBar() {
                     height={50}
                     alt="logo"
                   />
-                  <h1 className="font-bold text-xl ml-2">Threads</h1>
+                  <h1 className="font-bold text-xl ml-2">MediaWow</h1>
                 </div>
               </SheetTitle>
               <SheetDescription>

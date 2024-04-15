@@ -7,8 +7,8 @@ import { Toaster } from "@/components/ui/toaster";
 import CustomProvider from "./providers";
 
 export const metadata: Metadata = {
-  title: "Threads App",
-  description: "The Threads app to share your thoughts and much more.",
+  title: "MediaWow App",
+  description: "The MediaWow app to share your thoughts and much more.",
   icons: "/favicon.ico",
 };
 

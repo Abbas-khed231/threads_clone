@@ -55,7 +55,7 @@ export default function Register() {
               <div className="flex justify-between items-center">
                 <div>
                   <h1 className="text-2xl font-bold">Register</h1>
-                  <p>Welcome to the threads</p>
+                  <p>Welcome to the MediaWow</p>
                 </div>
               </div>
 
